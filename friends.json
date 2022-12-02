@@ -1,0 +1,26 @@
+[
+{
+    "name" : "Rencel",
+    "age" : "18",
+    "address" : "Iloilo",
+    "likes" : "beach",
+    "dislikes" : "sunburn",
+    "feeling" : "blessed kasi ako lang wala ng iba UmU"
+},
+{
+    "name" : "Gab",
+    "age" : "30",
+    "address" : "Iloilo",
+    "likes" : "Gaming",
+    "dislikes" : "Pageskwela",
+    "feeling" : "Heaven on Earth"
+},
+{
+    "name" : "Diane",
+    "age" : "21",
+    "address" : "Iloilo",
+    "likes" : "Kpop",
+    "dislikes" : "No Internet",
+    "feeling" : "Sleepy"
+}
+]
